@@ -1,0 +1,4 @@
+2023-04-15 10:23:36.659 test_1.py[17] <module> -> Find Control Timeout(10s): {Name: '消息管理', ControlType: ButtonControl}
+2023-04-15 11:58:59.186 QQ_msg.py[86] get_msg -> Find Control Timeout(10s): {Name: '消息管理', ControlType: ButtonControl}
+2023-04-15 11:59:09.941 QQ_msg.py[98] get_msg -> Find Control Timeout(10s): {Name: '消息管理器', ControlType: WindowControl}
+2023-04-15 11:59:23.007 QQ_msg.py[86] get_msg -> 
